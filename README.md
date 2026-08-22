@@ -53,6 +53,7 @@ Folder paths are stable. Prefer this index over scrolling the raw file tree.
 | [DumpMe](./ccd_DumpMe_writeup/) | `ccd_DumpMe_writeup` |
 | [Dynamic Escalate](./ccd_dynamic_escalate_writeup/) | `ccd_dynamic_escalate_writeup` |
 | [ElasticCase](./ccd_ElasticCase_writeup) | `ccd_ElasticCase_writeup` |
+| [Emprisa Maldoc](./ccd_Emprisa_Maldoc_writeup) | `ccd_Emprisa_Maldoc_writeup` |
 | [Exfiltrated](./ccd_Exfiltrated_Writeup) | `ccd_Exfiltrated_Writeup` |
 | [Fork Bomb / TeamPCP](./ccd_fork_bomb_TeamPCP_writeup/) | `ccd_fork_bomb_TeamPCP_writeup` |
 | [Formbook](./ccd_Formbook_writeup/) | `ccd_Formbook_writeup` |
