@@ -62,6 +62,7 @@ Folder paths are stable. Prefer this index over scrolling the raw file tree.
 | [Hacked](./ccd_Hacked_writeup) | `ccd_Hacked_writeup`|
 | [HawkEye](./ccd_HawkEye_writeup) | `ccd_HawkEye_writeup`|
 | [HireMe](./ccd_HireMe_writeup) | `ccd_HireMe_writeup`|
+| [HoneyBOT](./ccd_HoneyBOT_writeup) | `ccd_HoneyBOT_writeup`|
 | [IcedID2 / GOLD CABIN](./ccd_IcedID2_GOLD_CABIN/) | `ccd_IcedID2_GOLD_CABIN` |
 | [Injector](./ccd_Injector_writeup/) | `ccd_Injector_writeup` |
 | [Kerberoasted](./ccd_Kerberoasted_writeup/) | `ccd_Kerberoasted_writeup` |
