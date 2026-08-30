@@ -55,6 +55,7 @@ Folder paths are stable. Prefer this index over scrolling the raw file tree.
 | [ElasticCase](./ccd_ElasticCase_writeup) | `ccd_ElasticCase_writeup` |
 | [Emprisa Maldoc](./ccd_Emprisa_Maldoc_writeup) | `ccd_Emprisa_Maldoc_writeup` |
 | [Exfiltrated](./ccd_Exfiltrated_Writeup) | `ccd_Exfiltrated_Writeup` |
+| [FalconEye](./ccd_FalconEye_writeup) | `ccd_FalconEye_writeup` |
 | [Fork Bomb / TeamPCP](./ccd_fork_bomb_TeamPCP_writeup/) | `ccd_fork_bomb_TeamPCP_writeup` |
 | [Formbook](./ccd_Formbook_writeup/) | `ccd_Formbook_writeup` |
 | [GetPDF](./ccd_GetPDF_writeup/) | `ccd_GetPDF_writeup` |
@@ -67,6 +68,7 @@ Folder paths are stable. Prefer this index over scrolling the raw file tree.
 | [HoneyBOT](./ccd_HoneyBOT_writeup) | `ccd_HoneyBOT_writeup`|
 | [IcedID2 / GOLD CABIN](./ccd_IcedID2_GOLD_CABIN/) | `ccd_IcedID2_GOLD_CABIN` |
 | [Injector](./ccd_Injector_writeup/) | `ccd_Injector_writeup` |
+| [Intel101](./ccd_Intel101_writeup/) | `ccd_Intel101_writeup` |
 | [Kerberoasted](./ccd_Kerberoasted_writeup/) | `ccd_Kerberoasted_writeup` |
 | [KioskExpo7](./ccd_KioskExpo7_writeup/) | `ccd_KioskExpo7_writeup` |
 | [Kraken Keylogger](./ccd_KrakenKeylogger_writeup/) | `ccd_KrakenKeylogger_writeup` |
