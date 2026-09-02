@@ -133,7 +133,6 @@ Offset  Bytes            Field                        Meaning
 
 The two fields that mattered in file.zip_broken's corruption were Filename Length at offset 0x1A and its downstream consequence — a reader has no way to know where the filename string ends (and the actual file data begins) except by trusting that 2-byte length field, which is exactly why setting it to a garbage value like 0x5858 broke every parser's ability to find the rest of the archive.
 ```
-```
 
 Q5- File: `MALWARE101` - Apparently, my encryption isn't so secure. I've got a new way of hiding my flags!
 
