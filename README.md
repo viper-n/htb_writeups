@@ -95,6 +95,7 @@ Folder paths are stable. Prefer this index over scrolling the raw file tree.
 | [RansomedTrust / Lynx](./ccd_RansomedTrust_Lynx_writeup/) | `ccd_RansomedTrust_Lynx_writeup` |
 | [RAR CVE](./ccd_RARCVE_writeup/) | `ccd_RARCVE_writeup` |
 | [RCEMiner](./ccd_RCEMiner_writeup/) | `ccd_RCEMiner_writeup` |
+| [RE101](./ccd_RE101_writeup/) | `ccd_RE101_writeup` |
 | [Recruiter / Hanoi Op](./ccd_Recruiter_Hanoi_Op_writeup/) | `ccd_Recruiter_Hanoi_Op_writeup` |
 | [RediShell / Kinsing](./ccd_RediShell_Kinsing_Lab_writeup/) | `ccd_RediShell_Kinsing_Lab_writeup` |
 | [Rhadamanthys](./ccd_Rhadamanthys_writeup/) | `ccd_Rhadamanthys_writeup` |
