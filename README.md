@@ -48,6 +48,7 @@ Folder paths are stable. Prefer this index over scrolling the raw file tree.
 | [Confluence RCE](./ccd_ConfluenceRCE_writeup/) | `ccd_ConfluenceRCE_writeup` |
 | [ConsentStorm](./ccd_ConsentStorm_writeup/) | `ccd_ConsentStorm_writeup` |
 | [ContainerBreak / Rootkit Trail](./ccd_ContainerBreak_Rootkit_Trail_writeup/) | `ccd_ContainerBreak_Rootkit_Trail_writeup` |
+| [CorporateSecrets](./ccd_CorporateSecrets_writeup/) | `ccd_CorporateSecrets_writeup` |
 | [CursorJack](./ccd_CursorJack_writeup/) | `ccd_CursorJack_writeup` |
 | [DetectLog4j](./ccd_DetectLog4j_writeup/) | `ccd_DetectLog4j_writeup` |
 | [DumpMe](./ccd_DumpMe_writeup/) | `ccd_DumpMe_writeup` |
